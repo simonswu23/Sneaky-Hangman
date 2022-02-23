@@ -14,7 +14,7 @@ public class HangmanManager {
     //Constructs the base pattern of the word based on the entered int length
     //Creates a directory of words from Collection dictionary that the console considers
     //Creates a guessing limit based on int max
-    //Throws IllegalargumentException if the word length is less than 1
+    //Throws IllegalArgumentException if the word length is less than 1
     //or if the guessing limit is negative
     public HangmanManager (Collection<String> dictionary, int length, int max) {
         if (length < 1) {
