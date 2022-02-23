@@ -1,6 +1,3 @@
-//Simon Wu
-//10/28/2021
-//CSE 143 Section AP, Neel Jog
 //EvilHangMan
 //Creates class EvilHangMan that runs a game of Hangman (with a twist!)
 //EvilHangMan secretly chooses from a family of words based on user input
