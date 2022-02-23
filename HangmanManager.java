@@ -1,6 +1,5 @@
-//EvilHangMan
-//Creates class EvilHangMan that runs a game of Hangman (with a twist!)
-//EvilHangMan secretly chooses from a family of words based on user input
+//Creates class HangmanManager that runs a game of Hangman (with a twist!)
+//HangmanManager secretly chooses from a family of words based on user input
 //to make the game unnecessarily hard for the user.
 
 import java.util.*;
